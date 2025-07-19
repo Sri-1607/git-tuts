@@ -1,4 +1,4 @@
-qsrint("Hello World!")
+print("Hello World!")
 print("Doing Addition")
 a= int(input())
 b=int(input())
